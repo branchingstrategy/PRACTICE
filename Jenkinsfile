@@ -28,7 +28,7 @@ stage ('deploying the code')
 {
 steps
 {
-sh 'touch xyz'   
+sh 'touch mno'   
 }
 }
 }
